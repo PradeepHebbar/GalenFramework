@@ -1,0 +1,31 @@
+{
+  "tests" : [ {
+    "name" : "testOxigenWallet#checkLayout (TestDevice [device=desktop, screenSize=null, tags=[desktop], browser=chrome, URL=https://www.oxigen.com/, uniqueID=desktop])",
+    "startedAt" : 1490613822930,
+    "endedAt" : 1490613843489,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 197,
+      "errors" : 67,
+      "warnings" : 0,
+      "total" : 264
+    },
+    "testId" : "1-testoxigenwallet-checklayout-testdevice-device-desktop-screensize-null-tags-desktop-browser-chrome-url-https-www.oxigen.com-uniqueid-desktop-",
+    "failed" : true,
+    "duration" : 20559
+  }, {
+    "name" : "testOxigenWallet#checkLayout (TestDevice [device=desktop, screenSize=(400, 600), tags=[mobile], browser=chrome, URL=https://www.oxigen.com/, uniqueID=mobile])",
+    "startedAt" : 1490613853788,
+    "endedAt" : 1490613870629,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 201,
+      "errors" : 61,
+      "warnings" : 0,
+      "total" : 262
+    },
+    "testId" : "2-testoxigenwallet-checklayout-testdevice-device-desktop-screensize-400-600-tags-mobile-browser-chrome-url-https-www.oxigen.com-uniqueid-mobile-",
+    "failed" : true,
+    "duration" : 16841
+  } ]
+}

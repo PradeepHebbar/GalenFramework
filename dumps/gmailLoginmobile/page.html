@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Galen Page Dump</title>
+        <link rel="stylesheet" type="text/css" href="galen-pagedump.css"></link>
+        <script src="jquery-1.11.2.min.js"></script>
+        <script src="galen-pagedump.js"></script>
+        <script>
+var pageData = {"pageName":"https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#identifier","title":"Gmail","items":{"next":{"area":[55,287,256,36],"text":"Next","hasImage":true},"cc_iframe_parent":{"area":[55,138,256,0],"text":"","hasImage":true},"canvas":{"area":[147,138,72,72],"text":"","hasImage":true},"Email":{"area":[55,236,256,44],"text":"","hasImage":true},"link-signup":{"area":[135,392,97,16],"text":"Create account","hasImage":true},"gaia_loginform":{"area":[55,220,256,0],"text":"Find my account","hasImage":true},"footer-list":{"area":[10,551,230,16],"text":"About Google Privacy Terms Help","hasImage":true},"identifier-shown":{"area":[55,236,256,44],"text":"","hasImage":true},"gaia_firstform":{"area":[55,220,256,129],"text":"Find my account","hasImage":true},"lang-vis-control":{"area":[10,540,0,0],"text":"","hasImage":true}}};
+        </script>
+    </head>
+
+    <body>
+        <script>
+            $(function () {
+                initGalenPageDump(pageData);
+            });
+        </script>
+        <h1>https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#identifier - Galen page dump</h1>
+        <div class="image">
+            <div class="canvas">
+            </div>
+            <img src="page.png">
+            <div class="bottombarstub"></div>
+        </div>
+        <div id="sidebar">
+            <div class="wrapper">
+                <div id="object-list">
+                    <h2>All objects:</h2>
+                    <ul>
+                    </ul>
+                </div>
+                <div id="object-details" style="display: none;">
+                    <h2>Details</h2>
+                    <span class="field-name">Name:</span>
+                    <span class="field-value xf-object-name"></span>
+
+                    <span class="field-name">Area:</span>
+                    <span class="field-value xf-object-area"></span>
+
+                    <span class="field-name">Image:</span>
+                    <div class="image"></div>
+
+                </div>
+                <div class="bottombarstub"></div>
+            </div>
+        </div>
+        <div id="bottombar">
+            <div class="wrapper">
+                <div id="object-suggestions" style="display: none;">
+                    <h2>Spec Suggestions</h2>
+                    <div class="spec-list">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

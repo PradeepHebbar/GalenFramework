@@ -1,0 +1,2292 @@
+{
+  "testId" : "2-testoxigenwallet-checklayout-testdevice-device-desktop-screensize-400-600-tags-mobile-browser-chrome-url-https-www.oxigen.com-uniqueid-mobile-",
+  "name" : "testOxigenWallet#checkLayout (TestDevice [device=desktop, screenSize=(400, 600), tags=[mobile], browser=chrome, URL=https://www.oxigen.com/, uniqueID=mobile])",
+  "report" : {
+    "nodes" : [ {
+      "name" : "Check layout specs/outputSpecs/oxigenWalletHomemobile.spec",
+      "status" : "error",
+      "time" : 1490613870628,
+      "includedTags" : [ "mobile" ],
+      "excludedTags" : [ ],
+      "sections" : [ {
+        "name" : "button-mobile-recharge:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 87
+        },
+        "objects" : [ {
+          "name" : "button-mobile-recharge",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 89
+            },
+            "name" : "width 100% of form-mobile-recharge/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 90
+            },
+            "name" : "width 335% of mb-rechrge-plans/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 91
+            },
+            "name" : "width 91% of mb_recharge_sub_container/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 92
+            },
+            "name" : "width 610% of menu/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 93
+            },
+            "name" : "width 100% of mobile/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 94
+            },
+            "name" : "width 174% of mobilerecharge-amount/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 95
+            },
+            "name" : "width 100% of mobilerecharge-operator/width",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 96
+            },
+            "name" : "width 115% of mobilerecharge-service_number/width",
+            "errors" : [ "\"button-mobile-recharge\" width is 114% [305px] instead of 115% [305px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 97
+            },
+            "name" : "height 12.6% of form-mobile-recharge/height",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 98
+            },
+            "name" : "height 97.4% of mb-rechrge-plans/height",
+            "errors" : [ "\"button-mobile-recharge\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 99
+            },
+            "name" : "height 100% of mb_recharge_sub_container/height",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 100
+            },
+            "name" : "height 71.2% of menu/height",
+            "errors" : [ "\"button-mobile-recharge\" height is 71.1% [37px] instead of 71.2% [37px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 101
+            },
+            "name" : "height 12.6% of mobile/height",
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 102
+            },
+            "name" : "height 97.4% of mobilerecharge-amount/height",
+            "errors" : [ "\"button-mobile-recharge\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 103
+            },
+            "name" : "height 97.4% of mobilerecharge-operator/height",
+            "errors" : [ "\"button-mobile-recharge\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 104
+            },
+            "name" : "height 97.4% of mobilerecharge-service_number/height",
+            "errors" : [ "\"button-mobile-recharge\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 105
+            },
+            "name" : "inside partly form-mobile-recharge  256px top",
+            "highlight" : [ "button-mobile-recharge", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 106
+            },
+            "name" : "inside partly mb_recharge_sub_container  15px left, 15px right",
+            "highlight" : [ "button-mobile-recharge", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 107
+            },
+            "name" : "inside partly mobile  256px top",
+            "highlight" : [ "button-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 108
+            },
+            "name" : "aligned horizontally bottom form-mobile-recharge",
+            "highlight" : [ "button-mobile-recharge", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 109
+            },
+            "name" : "aligned horizontally all mb_recharge_sub_container",
+            "highlight" : [ "button-mobile-recharge", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 110
+            },
+            "name" : "aligned horizontally bottom mobile",
+            "highlight" : [ "button-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 111
+            },
+            "name" : "aligned vertically all form-mobile-recharge",
+            "highlight" : [ "button-mobile-recharge", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 112
+            },
+            "name" : "aligned vertically right mb-rechrge-plans",
+            "highlight" : [ "button-mobile-recharge", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 113
+            },
+            "name" : "aligned vertically all mobile",
+            "highlight" : [ "button-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 114
+            },
+            "name" : "aligned vertically all mobilerecharge-operator",
+            "highlight" : [ "button-mobile-recharge", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 115
+            },
+            "name" : "aligned vertically right mobilerecharge-service_number",
+            "highlight" : [ "button-mobile-recharge", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 116
+            },
+            "name" : "below mb-rechrge-plans 20px",
+            "highlight" : [ "button-mobile-recharge", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 117
+            },
+            "name" : "below menu 426px",
+            "highlight" : [ "button-mobile-recharge", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 118
+            },
+            "name" : "below mobilerecharge-amount 20px",
+            "highlight" : [ "button-mobile-recharge", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 119
+            },
+            "name" : "below mobilerecharge-operator 78px",
+            "highlight" : [ "button-mobile-recharge", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 120
+            },
+            "name" : "below mobilerecharge-service_number 136px",
+            "highlight" : [ "button-mobile-recharge", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 121
+            },
+            "name" : "centered horizontally inside mb_recharge_sub_container",
+            "highlight" : [ "button-mobile-recharge", "mb_recharge_sub_container" ]
+          } ]
+        } ]
+      }, {
+        "name" : "form-mobile-recharge:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 122
+        },
+        "objects" : [ {
+          "name" : "form-mobile-recharge",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 124
+            },
+            "name" : "width 100% of button-mobile-recharge/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 125
+            },
+            "name" : "width 335% of mb-rechrge-plans/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 126
+            },
+            "name" : "width 91% of mb_recharge_sub_container/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 127
+            },
+            "name" : "width 610% of menu/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 128
+            },
+            "name" : "width 100% of mobile/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 129
+            },
+            "name" : "width 174% of mobilerecharge-amount/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 130
+            },
+            "name" : "width 100% of mobilerecharge-operator/width",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 131
+            },
+            "name" : "width 115% of mobilerecharge-service_number/width",
+            "errors" : [ "\"form-mobile-recharge\" width is 114% [305px] instead of 115% [305px]" ],
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 132
+            },
+            "name" : "height 792% of button-mobile-recharge/height",
+            "errors" : [ "\"form-mobile-recharge\" height is 791% [293px] instead of 792% [293px]" ],
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 133
+            },
+            "name" : "height 771% of mb-rechrge-plans/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 134
+            },
+            "name" : "height 792% of mb_recharge_sub_container/height",
+            "errors" : [ "\"form-mobile-recharge\" height is 791% [293px] instead of 792% [293px]" ],
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 135
+            },
+            "name" : "height 563% of menu/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 136
+            },
+            "name" : "height 100% of mobile/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 137
+            },
+            "name" : "height 771% of mobilerecharge-amount/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 138
+            },
+            "name" : "height 771% of mobilerecharge-operator/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 139
+            },
+            "name" : "height 771% of mobilerecharge-service_number/height",
+            "highlight" : [ "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 140
+            },
+            "name" : "inside partly mobile",
+            "highlight" : [ "form-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 141
+            },
+            "name" : "aligned horizontally bottom button-mobile-recharge",
+            "highlight" : [ "form-mobile-recharge", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 142
+            },
+            "name" : "aligned horizontally bottom mb_recharge_sub_container",
+            "highlight" : [ "form-mobile-recharge", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 143
+            },
+            "name" : "aligned horizontally all mobile",
+            "highlight" : [ "form-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 144
+            },
+            "name" : "aligned vertically all button-mobile-recharge",
+            "highlight" : [ "form-mobile-recharge", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 145
+            },
+            "name" : "aligned vertically right mb-rechrge-plans",
+            "highlight" : [ "form-mobile-recharge", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 146
+            },
+            "name" : "aligned vertically all mobile",
+            "highlight" : [ "form-mobile-recharge", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 147
+            },
+            "name" : "aligned vertically all mobilerecharge-operator",
+            "highlight" : [ "form-mobile-recharge", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 148
+            },
+            "name" : "aligned vertically right mobilerecharge-service_number",
+            "highlight" : [ "form-mobile-recharge", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 149
+            },
+            "name" : "below menu 170px",
+            "highlight" : [ "form-mobile-recharge", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 150
+            },
+            "name" : "centered horizontally inside mb_recharge_sub_container",
+            "highlight" : [ "form-mobile-recharge", "mb_recharge_sub_container" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mb-rechrge-plans:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 151
+        },
+        "objects" : [ {
+          "name" : "mb-rechrge-plans",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 153
+            },
+            "name" : "width 29.8% of button-mobile-recharge/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 154
+            },
+            "name" : "width 29.8% of form-mobile-recharge/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 155
+            },
+            "name" : "width 27.2% of mb_recharge_sub_container/width",
+            "errors" : [ "\"mb-rechrge-plans\" width is 27.1% [91px] instead of 27.2% [91px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 156
+            },
+            "name" : "width 182% of menu/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 157
+            },
+            "name" : "width 29.8% of mobile/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 158
+            },
+            "name" : "width 52% of mobilerecharge-amount/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 159
+            },
+            "name" : "width 29.8% of mobilerecharge-operator/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 160
+            },
+            "name" : "width 34.2% of mobilerecharge-service_number/width",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 161
+            },
+            "name" : "height 103% of button-mobile-recharge/height",
+            "errors" : [ "\"mb-rechrge-plans\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 162
+            },
+            "name" : "height 13% of form-mobile-recharge/height",
+            "errors" : [ "\"mb-rechrge-plans\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 163
+            },
+            "name" : "height 103% of mb_recharge_sub_container/height",
+            "errors" : [ "\"mb-rechrge-plans\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 164
+            },
+            "name" : "height 73.1% of menu/height",
+            "errors" : [ "\"mb-rechrge-plans\" height is 73.0% [38px] instead of 73.1% [38px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 165
+            },
+            "name" : "height 13% of mobile/height",
+            "errors" : [ "\"mb-rechrge-plans\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 166
+            },
+            "name" : "height 100% of mobilerecharge-amount/height",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 167
+            },
+            "name" : "height 100% of mobilerecharge-operator/height",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 168
+            },
+            "name" : "height 100% of mobilerecharge-service_number/height",
+            "highlight" : [ "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 169
+            },
+            "name" : "inside partly form-mobile-recharge  198px top, 214px left, 57px bottom",
+            "highlight" : [ "mb-rechrge-plans", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 170
+            },
+            "name" : "inside partly mobile  198px top, 214px left, 57px bottom",
+            "highlight" : [ "mb-rechrge-plans", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 171
+            },
+            "name" : "aligned horizontally all mobilerecharge-amount",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 172
+            },
+            "name" : "aligned vertically right button-mobile-recharge",
+            "highlight" : [ "mb-rechrge-plans", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 173
+            },
+            "name" : "aligned vertically right form-mobile-recharge",
+            "highlight" : [ "mb-rechrge-plans", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 174
+            },
+            "name" : "aligned vertically right mobile",
+            "highlight" : [ "mb-rechrge-plans", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 175
+            },
+            "name" : "aligned vertically right mobilerecharge-operator",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 176
+            },
+            "name" : "aligned vertically right mobilerecharge-service_number",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 177
+            },
+            "name" : "right-of menu 195px",
+            "highlight" : [ "mb-rechrge-plans", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 178
+            },
+            "name" : "right-of mobilerecharge-amount 0px",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 179
+            },
+            "name" : "above button-mobile-recharge 20px",
+            "highlight" : [ "mb-rechrge-plans", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 180
+            },
+            "name" : "above mb_recharge_sub_container 20px",
+            "highlight" : [ "mb-rechrge-plans", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 181
+            },
+            "name" : "below menu 368px",
+            "highlight" : [ "mb-rechrge-plans", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 182
+            },
+            "name" : "below mobilerecharge-operator 20px",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 183
+            },
+            "name" : "below mobilerecharge-service_number 78px",
+            "highlight" : [ "mb-rechrge-plans", "mobilerecharge-service_number" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mb_recharge_sub_container:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 184
+        },
+        "objects" : [ {
+          "name" : "mb_recharge_sub_container",
+          "specs" : [ {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 186
+            },
+            "name" : "width 110% of button-mobile-recharge/width",
+            "errors" : [ "\"mb_recharge_sub_container\" width is 109% [335px] instead of 110% [335px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 187
+            },
+            "name" : "width 110% of form-mobile-recharge/width",
+            "errors" : [ "\"mb_recharge_sub_container\" width is 109% [335px] instead of 110% [335px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 188
+            },
+            "name" : "width 368% of mb-rechrge-plans/width",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 189
+            },
+            "name" : "width 670% of menu/width",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 190
+            },
+            "name" : "width 110% of mobile/width",
+            "errors" : [ "\"mb_recharge_sub_container\" width is 109% [335px] instead of 110% [335px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 191
+            },
+            "name" : "width 191% of mobilerecharge-amount/width",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 192
+            },
+            "name" : "width 110% of mobilerecharge-operator/width",
+            "errors" : [ "\"mb_recharge_sub_container\" width is 109% [335px] instead of 110% [335px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 193
+            },
+            "name" : "width 126% of mobilerecharge-service_number/width",
+            "errors" : [ "\"mb_recharge_sub_container\" width is 125% [335px] instead of 126% [335px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 194
+            },
+            "name" : "height 100% of button-mobile-recharge/height",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 195
+            },
+            "name" : "height 12.6% of form-mobile-recharge/height",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 196
+            },
+            "name" : "height 97.4% of mb-rechrge-plans/height",
+            "errors" : [ "\"mb_recharge_sub_container\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 197
+            },
+            "name" : "height 71.2% of menu/height",
+            "errors" : [ "\"mb_recharge_sub_container\" height is 71.1% [37px] instead of 71.2% [37px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 198
+            },
+            "name" : "height 12.6% of mobile/height",
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 199
+            },
+            "name" : "height 97.4% of mobilerecharge-amount/height",
+            "errors" : [ "\"mb_recharge_sub_container\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 200
+            },
+            "name" : "height 97.4% of mobilerecharge-operator/height",
+            "errors" : [ "\"mb_recharge_sub_container\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 201
+            },
+            "name" : "height 97.4% of mobilerecharge-service_number/height",
+            "errors" : [ "\"mb_recharge_sub_container\" height is 97.3% [37px] instead of 97.4% [37px]" ],
+            "highlight" : [ "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 202
+            },
+            "name" : "aligned horizontally all button-mobile-recharge",
+            "highlight" : [ "mb_recharge_sub_container", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 203
+            },
+            "name" : "aligned horizontally bottom form-mobile-recharge",
+            "highlight" : [ "mb_recharge_sub_container", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 204
+            },
+            "name" : "aligned horizontally bottom mobile",
+            "highlight" : [ "mb_recharge_sub_container", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 205
+            },
+            "name" : "below mb-rechrge-plans 20px",
+            "highlight" : [ "mb_recharge_sub_container", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 206
+            },
+            "name" : "below menu 426px",
+            "highlight" : [ "mb_recharge_sub_container", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 207
+            },
+            "name" : "below mobilerecharge-amount 20px",
+            "highlight" : [ "mb_recharge_sub_container", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 208
+            },
+            "name" : "below mobilerecharge-operator 78px",
+            "highlight" : [ "mb_recharge_sub_container", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 209
+            },
+            "name" : "below mobilerecharge-service_number 136px",
+            "highlight" : [ "mb_recharge_sub_container", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 210
+            },
+            "name" : "centered horizontally on button-mobile-recharge",
+            "highlight" : [ "mb_recharge_sub_container", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 211
+            },
+            "name" : "centered horizontally on form-mobile-recharge",
+            "highlight" : [ "mb_recharge_sub_container", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 212
+            },
+            "name" : "centered horizontally on mobile",
+            "highlight" : [ "mb_recharge_sub_container", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 213
+            },
+            "name" : "centered horizontally on mobilerecharge-operator",
+            "highlight" : [ "mb_recharge_sub_container", "mobilerecharge-operator" ]
+          } ]
+        } ]
+      }, {
+        "name" : "menu:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 214
+        },
+        "objects" : [ {
+          "name" : "menu",
+          "specs" : [ {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 216
+            },
+            "name" : "width 16.4% of button-mobile-recharge/width",
+            "errors" : [ "\"menu\" width is 16.3% [50px] instead of 16.4% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 217
+            },
+            "name" : "width 16.4% of form-mobile-recharge/width",
+            "errors" : [ "\"menu\" width is 16.3% [50px] instead of 16.4% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 218
+            },
+            "name" : "width 54.9% of mb-rechrge-plans/width",
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 219
+            },
+            "name" : "width 14.9% of mb_recharge_sub_container/width",
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 220
+            },
+            "name" : "width 16.4% of mobile/width",
+            "errors" : [ "\"menu\" width is 16.3% [50px] instead of 16.4% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 221
+            },
+            "name" : "width 28.6% of mobilerecharge-amount/width",
+            "errors" : [ "\"menu\" width is 28.5% [50px] instead of 28.6% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 222
+            },
+            "name" : "width 16.4% of mobilerecharge-operator/width",
+            "errors" : [ "\"menu\" width is 16.3% [50px] instead of 16.4% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 223
+            },
+            "name" : "width 18.8% of mobilerecharge-service_number/width",
+            "errors" : [ "\"menu\" width is 18.7% [50px] instead of 18.8% [50px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 224
+            },
+            "name" : "height 141% of button-mobile-recharge/height",
+            "errors" : [ "\"menu\" height is 140% [52px] instead of 141% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 225
+            },
+            "name" : "height 17.7% of form-mobile-recharge/height",
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 226
+            },
+            "name" : "height 137% of mb-rechrge-plans/height",
+            "errors" : [ "\"menu\" height is 136% [52px] instead of 137% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 227
+            },
+            "name" : "height 141% of mb_recharge_sub_container/height",
+            "errors" : [ "\"menu\" height is 140% [52px] instead of 141% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 228
+            },
+            "name" : "height 17.7% of mobile/height",
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 229
+            },
+            "name" : "height 137% of mobilerecharge-amount/height",
+            "errors" : [ "\"menu\" height is 136% [52px] instead of 137% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 230
+            },
+            "name" : "height 137% of mobilerecharge-operator/height",
+            "errors" : [ "\"menu\" height is 136% [52px] instead of 137% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 231
+            },
+            "name" : "height 137% of mobilerecharge-service_number/height",
+            "errors" : [ "\"menu\" height is 136% [52px] instead of 137% [52px]" ],
+            "highlight" : [ "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 232
+            },
+            "name" : "left-of mb-rechrge-plans 195px",
+            "highlight" : [ "menu", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 233
+            },
+            "name" : "left-of mobilerecharge-amount 20px",
+            "highlight" : [ "menu", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 234
+            },
+            "name" : "left-of mobilerecharge-service_number 20px",
+            "highlight" : [ "menu", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 235
+            },
+            "name" : "above button-mobile-recharge 426px",
+            "highlight" : [ "menu", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 236
+            },
+            "name" : "above form-mobile-recharge 170px",
+            "highlight" : [ "menu", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 237
+            },
+            "name" : "above mb-rechrge-plans 368px",
+            "highlight" : [ "menu", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 238
+            },
+            "name" : "above mb_recharge_sub_container 426px",
+            "highlight" : [ "menu", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 239
+            },
+            "name" : "above mobile 170px",
+            "highlight" : [ "menu", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 240
+            },
+            "name" : "above mobilerecharge-amount 368px",
+            "highlight" : [ "menu", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 241
+            },
+            "name" : "above mobilerecharge-operator 310px",
+            "highlight" : [ "menu", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 242
+            },
+            "name" : "above mobilerecharge-service_number 252px",
+            "highlight" : [ "menu", "mobilerecharge-service_number" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mobile:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 243
+        },
+        "objects" : [ {
+          "name" : "mobile",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 245
+            },
+            "name" : "width 100% of button-mobile-recharge/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 246
+            },
+            "name" : "width 100% of form-mobile-recharge/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 247
+            },
+            "name" : "width 335% of mb-rechrge-plans/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 248
+            },
+            "name" : "width 91% of mb_recharge_sub_container/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 249
+            },
+            "name" : "width 610% of menu/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 250
+            },
+            "name" : "width 174% of mobilerecharge-amount/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 251
+            },
+            "name" : "width 100% of mobilerecharge-operator/width",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 252
+            },
+            "name" : "width 115% of mobilerecharge-service_number/width",
+            "errors" : [ "\"mobile\" width is 114% [305px] instead of 115% [305px]" ],
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 253
+            },
+            "name" : "height 792% of button-mobile-recharge/height",
+            "errors" : [ "\"mobile\" height is 791% [293px] instead of 792% [293px]" ],
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 254
+            },
+            "name" : "height 100% of form-mobile-recharge/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 255
+            },
+            "name" : "height 771% of mb-rechrge-plans/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 256
+            },
+            "name" : "height 792% of mb_recharge_sub_container/height",
+            "errors" : [ "\"mobile\" height is 791% [293px] instead of 792% [293px]" ],
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 257
+            },
+            "name" : "height 563% of menu/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 258
+            },
+            "name" : "height 771% of mobilerecharge-amount/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 259
+            },
+            "name" : "height 771% of mobilerecharge-operator/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 260
+            },
+            "name" : "height 771% of mobilerecharge-service_number/height",
+            "highlight" : [ "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 261
+            },
+            "name" : "inside partly form-mobile-recharge",
+            "highlight" : [ "mobile", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 262
+            },
+            "name" : "aligned horizontally bottom button-mobile-recharge",
+            "highlight" : [ "mobile", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 263
+            },
+            "name" : "aligned horizontally all form-mobile-recharge",
+            "highlight" : [ "mobile", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 264
+            },
+            "name" : "aligned horizontally bottom mb_recharge_sub_container",
+            "highlight" : [ "mobile", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 265
+            },
+            "name" : "aligned vertically all button-mobile-recharge",
+            "highlight" : [ "mobile", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 266
+            },
+            "name" : "aligned vertically all form-mobile-recharge",
+            "highlight" : [ "mobile", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 267
+            },
+            "name" : "aligned vertically right mb-rechrge-plans",
+            "highlight" : [ "mobile", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 268
+            },
+            "name" : "aligned vertically all mobilerecharge-operator",
+            "highlight" : [ "mobile", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 269
+            },
+            "name" : "aligned vertically right mobilerecharge-service_number",
+            "highlight" : [ "mobile", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 270
+            },
+            "name" : "below menu 170px",
+            "highlight" : [ "mobile", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 271
+            },
+            "name" : "centered horizontally inside mb_recharge_sub_container",
+            "highlight" : [ "mobile", "mb_recharge_sub_container" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mobilerecharge-amount:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 272
+        },
+        "objects" : [ {
+          "name" : "mobilerecharge-amount",
+          "specs" : [ {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 274
+            },
+            "name" : "width 57.4% of button-mobile-recharge/width",
+            "errors" : [ "\"mobilerecharge-amount\" width is 57.3% [175px] instead of 57.4% [175px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 275
+            },
+            "name" : "width 57.4% of form-mobile-recharge/width",
+            "errors" : [ "\"mobilerecharge-amount\" width is 57.3% [175px] instead of 57.4% [175px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 276
+            },
+            "name" : "width 192% of mb-rechrge-plans/width",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 277
+            },
+            "name" : "width 52.2% of mb_recharge_sub_container/width",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 278
+            },
+            "name" : "width 350% of menu/width",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 279
+            },
+            "name" : "width 57.4% of mobile/width",
+            "errors" : [ "\"mobilerecharge-amount\" width is 57.3% [175px] instead of 57.4% [175px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 280
+            },
+            "name" : "width 57.4% of mobilerecharge-operator/width",
+            "errors" : [ "\"mobilerecharge-amount\" width is 57.3% [175px] instead of 57.4% [175px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 281
+            },
+            "name" : "width 65.8% of mobilerecharge-service_number/width",
+            "errors" : [ "\"mobilerecharge-amount\" width is 65.7% [175px] instead of 65.8% [175px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 282
+            },
+            "name" : "height 103% of button-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-amount\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 283
+            },
+            "name" : "height 13% of form-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-amount\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 284
+            },
+            "name" : "height 100% of mb-rechrge-plans/height",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 285
+            },
+            "name" : "height 103% of mb_recharge_sub_container/height",
+            "errors" : [ "\"mobilerecharge-amount\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 286
+            },
+            "name" : "height 73.1% of menu/height",
+            "errors" : [ "\"mobilerecharge-amount\" height is 73.0% [38px] instead of 73.1% [38px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 287
+            },
+            "name" : "height 13% of mobile/height",
+            "errors" : [ "\"mobilerecharge-amount\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 288
+            },
+            "name" : "height 100% of mobilerecharge-operator/height",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 289
+            },
+            "name" : "height 100% of mobilerecharge-service_number/height",
+            "highlight" : [ "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 290
+            },
+            "name" : "inside form-mobile-recharge  198px top, 39px left, 91px right, 57px bottom",
+            "highlight" : [ "mobilerecharge-amount", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 291
+            },
+            "name" : "inside mobile  198px top, 39px left, 91px right, 57px bottom",
+            "highlight" : [ "mobilerecharge-amount", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 292
+            },
+            "name" : "inside partly mb-rechrge-plans  91px right",
+            "highlight" : [ "mobilerecharge-amount", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 293
+            },
+            "name" : "aligned horizontally all mb-rechrge-plans",
+            "highlight" : [ "mobilerecharge-amount", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 294
+            },
+            "name" : "aligned vertically left mobilerecharge-service_number",
+            "highlight" : [ "mobilerecharge-amount", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 295
+            },
+            "name" : "left-of mb-rechrge-plans 0px",
+            "highlight" : [ "mobilerecharge-amount", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 296
+            },
+            "name" : "right-of menu 20px",
+            "highlight" : [ "mobilerecharge-amount", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 297
+            },
+            "name" : "above button-mobile-recharge 20px",
+            "highlight" : [ "mobilerecharge-amount", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 298
+            },
+            "name" : "above mb_recharge_sub_container 20px",
+            "highlight" : [ "mobilerecharge-amount", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 299
+            },
+            "name" : "below menu 368px",
+            "highlight" : [ "mobilerecharge-amount", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 300
+            },
+            "name" : "below mobilerecharge-operator 20px",
+            "highlight" : [ "mobilerecharge-amount", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 301
+            },
+            "name" : "below mobilerecharge-service_number 78px",
+            "highlight" : [ "mobilerecharge-amount", "mobilerecharge-service_number" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mobilerecharge-operator:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 302
+        },
+        "objects" : [ {
+          "name" : "mobilerecharge-operator",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 304
+            },
+            "name" : "width 100% of button-mobile-recharge/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 305
+            },
+            "name" : "width 100% of form-mobile-recharge/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 306
+            },
+            "name" : "width 335% of mb-rechrge-plans/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 307
+            },
+            "name" : "width 91% of mb_recharge_sub_container/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 308
+            },
+            "name" : "width 610% of menu/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 309
+            },
+            "name" : "width 100% of mobile/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 310
+            },
+            "name" : "width 174% of mobilerecharge-amount/width",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 311
+            },
+            "name" : "width 115% of mobilerecharge-service_number/width",
+            "errors" : [ "\"mobilerecharge-operator\" width is 114% [305px] instead of 115% [305px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 312
+            },
+            "name" : "height 103% of button-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-operator\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 313
+            },
+            "name" : "height 13% of form-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-operator\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 314
+            },
+            "name" : "height 100% of mb-rechrge-plans/height",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 315
+            },
+            "name" : "height 103% of mb_recharge_sub_container/height",
+            "errors" : [ "\"mobilerecharge-operator\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 316
+            },
+            "name" : "height 73.1% of menu/height",
+            "errors" : [ "\"mobilerecharge-operator\" height is 73.0% [38px] instead of 73.1% [38px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 317
+            },
+            "name" : "height 13% of mobile/height",
+            "errors" : [ "\"mobilerecharge-operator\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 318
+            },
+            "name" : "height 100% of mobilerecharge-amount/height",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 319
+            },
+            "name" : "height 100% of mobilerecharge-service_number/height",
+            "highlight" : [ "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 320
+            },
+            "name" : "inside partly form-mobile-recharge  140px top, 115px bottom",
+            "highlight" : [ "mobilerecharge-operator", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 321
+            },
+            "name" : "inside partly mobile  140px top, 115px bottom",
+            "highlight" : [ "mobilerecharge-operator", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 322
+            },
+            "name" : "aligned vertically all button-mobile-recharge",
+            "highlight" : [ "mobilerecharge-operator", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 323
+            },
+            "name" : "aligned vertically all form-mobile-recharge",
+            "highlight" : [ "mobilerecharge-operator", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 324
+            },
+            "name" : "aligned vertically right mb-rechrge-plans",
+            "highlight" : [ "mobilerecharge-operator", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 325
+            },
+            "name" : "aligned vertically all mobile",
+            "highlight" : [ "mobilerecharge-operator", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 326
+            },
+            "name" : "aligned vertically right mobilerecharge-service_number",
+            "highlight" : [ "mobilerecharge-operator", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 327
+            },
+            "name" : "above button-mobile-recharge 78px",
+            "highlight" : [ "mobilerecharge-operator", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 328
+            },
+            "name" : "above mb-rechrge-plans 20px",
+            "highlight" : [ "mobilerecharge-operator", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 329
+            },
+            "name" : "above mb_recharge_sub_container 78px",
+            "highlight" : [ "mobilerecharge-operator", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 330
+            },
+            "name" : "above mobilerecharge-amount 20px",
+            "highlight" : [ "mobilerecharge-operator", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 331
+            },
+            "name" : "below menu 310px",
+            "highlight" : [ "mobilerecharge-operator", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 332
+            },
+            "name" : "below mobilerecharge-service_number 20px",
+            "highlight" : [ "mobilerecharge-operator", "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 333
+            },
+            "name" : "centered horizontally inside mb_recharge_sub_container",
+            "highlight" : [ "mobilerecharge-operator", "mb_recharge_sub_container" ]
+          } ]
+        } ]
+      }, {
+        "name" : "mobilerecharge-service_number:",
+        "place" : {
+          "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+          "lineNumber" : 334
+        },
+        "objects" : [ {
+          "name" : "mobilerecharge-service_number",
+          "specs" : [ {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 336
+            },
+            "name" : "width 87.2% of button-mobile-recharge/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 337
+            },
+            "name" : "width 87.2% of form-mobile-recharge/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 338
+            },
+            "name" : "width 292% of mb-rechrge-plans/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 339
+            },
+            "name" : "width 79.4% of mb_recharge_sub_container/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 340
+            },
+            "name" : "width 532% of menu/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 341
+            },
+            "name" : "width 87.2% of mobile/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 342
+            },
+            "name" : "width 152% of mobilerecharge-amount/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 343
+            },
+            "name" : "width 87.2% of mobilerecharge-operator/width",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 344
+            },
+            "name" : "height 103% of button-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-service_number\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 345
+            },
+            "name" : "height 13% of form-mobile-recharge/height",
+            "errors" : [ "\"mobilerecharge-service_number\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 346
+            },
+            "name" : "height 100% of mb-rechrge-plans/height",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 347
+            },
+            "name" : "height 103% of mb_recharge_sub_container/height",
+            "errors" : [ "\"mobilerecharge-service_number\" height is 102% [38px] instead of 103% [38px]" ],
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 348
+            },
+            "name" : "height 73.1% of menu/height",
+            "errors" : [ "\"mobilerecharge-service_number\" height is 73.0% [38px] instead of 73.1% [38px]" ],
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "error",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 349
+            },
+            "name" : "height 13% of mobile/height",
+            "errors" : [ "\"mobilerecharge-service_number\" height is 12% [38px] instead of 13% [38px]" ],
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 350
+            },
+            "name" : "height 100% of mobilerecharge-amount/height",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 351
+            },
+            "name" : "height 100% of mobilerecharge-operator/height",
+            "highlight" : [ "mobilerecharge-service_number" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 352
+            },
+            "name" : "inside partly form-mobile-recharge  82px top, 39px left, 173px bottom",
+            "highlight" : [ "mobilerecharge-service_number", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 353
+            },
+            "name" : "inside partly mobile  82px top, 39px left, 173px bottom",
+            "highlight" : [ "mobilerecharge-service_number", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 354
+            },
+            "name" : "aligned vertically right button-mobile-recharge",
+            "highlight" : [ "mobilerecharge-service_number", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 355
+            },
+            "name" : "aligned vertically right form-mobile-recharge",
+            "highlight" : [ "mobilerecharge-service_number", "form-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 356
+            },
+            "name" : "aligned vertically right mb-rechrge-plans",
+            "highlight" : [ "mobilerecharge-service_number", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 357
+            },
+            "name" : "aligned vertically right mobile",
+            "highlight" : [ "mobilerecharge-service_number", "mobile" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 358
+            },
+            "name" : "aligned vertically left mobilerecharge-amount",
+            "highlight" : [ "mobilerecharge-service_number", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 359
+            },
+            "name" : "aligned vertically right mobilerecharge-operator",
+            "highlight" : [ "mobilerecharge-service_number", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 360
+            },
+            "name" : "right-of menu 20px",
+            "highlight" : [ "mobilerecharge-service_number", "menu" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 361
+            },
+            "name" : "above button-mobile-recharge 136px",
+            "highlight" : [ "mobilerecharge-service_number", "button-mobile-recharge" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 362
+            },
+            "name" : "above mb-rechrge-plans 78px",
+            "highlight" : [ "mobilerecharge-service_number", "mb-rechrge-plans" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 363
+            },
+            "name" : "above mb_recharge_sub_container 136px",
+            "highlight" : [ "mobilerecharge-service_number", "mb_recharge_sub_container" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 364
+            },
+            "name" : "above mobilerecharge-amount 78px",
+            "highlight" : [ "mobilerecharge-service_number", "mobilerecharge-amount" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 365
+            },
+            "name" : "above mobilerecharge-operator 20px",
+            "highlight" : [ "mobilerecharge-service_number", "mobilerecharge-operator" ]
+          }, {
+            "status" : "info",
+            "place" : {
+              "filePath" : "specs/outputSpecs/oxigenWalletHomemobile.spec",
+              "lineNumber" : 366
+            },
+            "name" : "below menu 252px",
+            "highlight" : [ "mobilerecharge-service_number", "menu" ]
+          } ]
+        } ]
+      } ],
+      "objects" : {
+        "mobilerecharge-amount" : {
+          "area" : [ 70, 462, 175, 38 ]
+        },
+        "mb-rechrge-plans" : {
+          "area" : [ 245, 462, 91, 38 ]
+        },
+        "mobilerecharge-operator" : {
+          "area" : [ 31, 404, 305, 38 ]
+        },
+        "button-mobile-recharge" : {
+          "area" : [ 31, 520, 305, 37 ]
+        },
+        "mobile" : {
+          "area" : [ 31, 264, 305, 293 ]
+        },
+        "form-mobile-recharge" : {
+          "area" : [ 31, 264, 305, 293 ]
+        },
+        "menu" : {
+          "area" : [ 0, 42, 50, 52 ]
+        },
+        "mobilerecharge-service_number" : {
+          "area" : [ 70, 346, 266, 38 ]
+        },
+        "mb_recharge_sub_container" : {
+          "area" : [ 16, 520, 335, 37 ]
+        }
+      },
+      "screenshot" : "layout-2-screenshot.png",
+      "type" : "layout"
+    } ]
+  }
+}

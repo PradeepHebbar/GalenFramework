@@ -1,0 +1,31 @@
+{
+  "tests" : [ {
+    "name" : "testGmail#checkLayoutGmail (TestDevice [device=desktop, screenSize=null, tags=[desktop], browser=chrome, URL=https://www.gmail.com/, uniqueID=desktop])",
+    "startedAt" : 1490694824677,
+    "endedAt" : 1490694867459,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 1259,
+      "errors" : 258,
+      "warnings" : 0,
+      "total" : 1517
+    },
+    "testId" : "1-testgmail-checklayoutgmail-testdevice-device-desktop-screensize-null-tags-desktop-browser-chrome-url-https-www.gmail.com-uniqueid-desktop-",
+    "duration" : 42782,
+    "failed" : true
+  }, {
+    "name" : "testGmail#checkLayoutGmail (TestDevice [device=desktop, screenSize=(400, 600), tags=[mobile], browser=chrome, URL=https://www.gmail.com/, uniqueID=mobile])",
+    "startedAt" : 1490694877772,
+    "endedAt" : 1490694906190,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 420,
+      "errors" : 645,
+      "warnings" : 0,
+      "total" : 1065
+    },
+    "testId" : "2-testgmail-checklayoutgmail-testdevice-device-desktop-screensize-400-600-tags-mobile-browser-chrome-url-https-www.gmail.com-uniqueid-mobile-",
+    "duration" : 28418,
+    "failed" : true
+  } ]
+}
